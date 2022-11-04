@@ -45,7 +45,7 @@
                                     @csrf
                                     @method('delete')
                                     <x-dropdown-link :href="route('moods.destroy', $mood)" onclick="event.preventDefault(); this.closest('form').submit();">
-                                        {{ __('Delete') }}
+                                        {{ __('Remove') }}
                                     </x-dropdown-link>
                                 </form>
                             @endif
