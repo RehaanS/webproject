@@ -1,4 +1,4 @@
-# Moods Website
+## Moods Website
 Users can register and login to see and post moods. Moods can be a maximum of 255 characters. Moods may be edited/deleted by their original authors only.
 
 Authentication system provided by Laravel Breeze.
