@@ -5,10 +5,11 @@ Authentication system provided by Laravel Breeze.
 
 Moods system inspired by Laravel Bootcamp.
 
-Code Taken And Adapted From: bootcamp.laravel.com
+Code Taken And Adapted From: bootcamp.laravel.com (2022)
 
-Project Installation Instructions:
+## Project Installation Instructions:
 
 Download and extract source code to a local laravel installation. Then call php artisan migrate to create the necessary tables. From there, create an account and login to begin posting and reading moods.
 
+## Screenshots of application
 
